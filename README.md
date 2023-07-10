@@ -1,3 +1,5 @@
+# Create an unsplash access key and put it into a .env file.
+
 # [Next.js Intercepting Routes Modal example](https://nextjs-app-route-interception.vercel.app/)
 
 An example showing Next.js 13's [Intercepting Routes](https://beta.nextjs.org/docs/routing/intercepting-routes) feature.
